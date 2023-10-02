@@ -6,7 +6,8 @@
 - CloudFront Distribution:
   - https://d2chh1j28pve7u.cloudfront.net/
 - Automatic Deployment:
-  Bucket:
-
-      CloudFront Distribution:
+  -  Bucket:
+     - https://node-in-aws-web-bucket.s3.eu-west-1.amazonaws.com/index.html
+  - CloudFront Distribution:
+    - 
             
