@@ -1,36 +1,13 @@
-# shop-vue-vuex-cloudfront
+# Homework
 
-See `develop` branch for development
-
-## Project setup
-```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Run your unit tests
-```
-npm run test:unit
-```
-
-### Run your end-to-end tests
-```
-npm run test:e2e
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+## Task 2.1) Manual Deployment:
+- Bucket:
+  -  https://test-shop.s3.us-east-2.amazonaws.com/index.html
+- CloudFront Distribution:
+  - https://d2chh1j28pve7u.cloudfront.net/
+- Automatic Deployment:
+  -  Bucket:
+     - https://node-in-aws-web-bucket.s3.eu-west-1.amazonaws.com/index.html
+  - CloudFront Distribution:
+    - 
+            

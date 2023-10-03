@@ -61,7 +61,7 @@
         "create": "Добавить новый продукт",
         "title": "Заголовок",
         "description": "Описание",
-        "dynamicCount": "Доступно на складе (кол-во)",
+        "dynamicCount": "Доступно на складе (кол-во): {count}",
         "count": "Доступно на складе (кол-во): {count}",
         "price": "Цена",
         "dynamicPrice": "Цена: {price}",
